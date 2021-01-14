@@ -42,8 +42,8 @@ return salarioFinal;
 public static void main(String[] args) {
 // !!!! MODIFICA TU NOMBRE Y TU DNI EN LA SIGUIENTE LÍNEA
 EmpleadoED_44654545x1 emp = new EmpleadoED_44654545x1("MARINA SMIRNOVA",
-"44654545X1");
+"Y5904039E");
 int horasExtra = 2;
 System.out.println("El salario de " + emp.nombreCompleto + " este mes será de " + emp.getSalarioEsteMes(horasExtra)+ " euros, al hacer " + horasExtra + " horas extra.");
 }
-}
+} 
